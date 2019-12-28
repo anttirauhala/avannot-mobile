@@ -20,6 +20,13 @@
 		4E83F7647E9AB127709007C7 /* libPods-avannotTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 360C09C74666A954A3C714C1 /* libPods-avannotTests.a */; };
 		54EDCA5E8BCEA2FF44545DCF /* libPods-avannot-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 83A321BB3C94C9441E79F366 /* libPods-avannot-tvOS.a */; };
 		A33F005AF0C168577C202714 /* libPods-avannot.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7D4D51821BFE17594CAA0D50 /* libPods-avannot.a */; };
+		2C0885333BBC4F6B8F0C64BF /* Quicksand_Dash.otf in Resources */ = {isa = PBXBuildFile; fileRef = E9A9EA24B10D48C68D611F4D /* Quicksand_Dash.otf */; };
+		1164F0A337BF45E59955BBC1 /* Quicksand-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 85D834B612D8459AB88CBDCE /* Quicksand-Bold.otf */; };
+		B1774CA71FB34CBB8C7AF3EF /* Quicksand-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 806BC7EB7F564DD19C9BC6E2 /* Quicksand-BoldItalic.otf */; };
+		62C6CC947EC94A66B9F5D49F /* Quicksand-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7C272679ECC44D0EB9523819 /* Quicksand-Italic.otf */; };
+		7882C23B052E44D99F34F604 /* Quicksand-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6A7ADB565D64464CB9E4FA94 /* Quicksand-Light.otf */; };
+		430C41A1815E4F8CAFE8D66E /* Quicksand-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EC484409FFC340A8A41D2A3D /* Quicksand-LightItalic.otf */; };
+		D7044764EED744CCBB797811 /* Quicksand-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6D865338B5C0440CA2657804 /* Quicksand-Regular.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +74,13 @@
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		FD92D4AEF643570AB78DE22D /* Pods-avannotTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-avannotTests.release.xcconfig"; path = "Target Support Files/Pods-avannotTests/Pods-avannotTests.release.xcconfig"; sourceTree = "<group>"; };
 		FE69FCE48B507E4EF6671EA4 /* Pods-avannot-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-avannot-tvOS.release.xcconfig"; path = "Target Support Files/Pods-avannot-tvOS/Pods-avannot-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		E9A9EA24B10D48C68D611F4D /* Quicksand_Dash.otf */ = {isa = PBXFileReference; name = "Quicksand_Dash.otf"; path = "../assets/fonts/Quicksand_Dash.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		85D834B612D8459AB88CBDCE /* Quicksand-Bold.otf */ = {isa = PBXFileReference; name = "Quicksand-Bold.otf"; path = "../assets/fonts/Quicksand-Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		806BC7EB7F564DD19C9BC6E2 /* Quicksand-BoldItalic.otf */ = {isa = PBXFileReference; name = "Quicksand-BoldItalic.otf"; path = "../assets/fonts/Quicksand-BoldItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7C272679ECC44D0EB9523819 /* Quicksand-Italic.otf */ = {isa = PBXFileReference; name = "Quicksand-Italic.otf"; path = "../assets/fonts/Quicksand-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6A7ADB565D64464CB9E4FA94 /* Quicksand-Light.otf */ = {isa = PBXFileReference; name = "Quicksand-Light.otf"; path = "../assets/fonts/Quicksand-Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EC484409FFC340A8A41D2A3D /* Quicksand-LightItalic.otf */ = {isa = PBXFileReference; name = "Quicksand-LightItalic.otf"; path = "../assets/fonts/Quicksand-LightItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6D865338B5C0440CA2657804 /* Quicksand-Regular.otf */ = {isa = PBXFileReference; name = "Quicksand-Regular.otf"; path = "../assets/fonts/Quicksand-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -181,6 +195,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				3505F15C0358E752B5037F56 /* Pods */,
+				DBD77FE7412B4F4F92968394 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -197,6 +212,21 @@
 			);
 			name = Products;
 			sourceTree = "<group>";
+		};
+		DBD77FE7412B4F4F92968394 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				E9A9EA24B10D48C68D611F4D /* Quicksand_Dash.otf */,
+				85D834B612D8459AB88CBDCE /* Quicksand-Bold.otf */,
+				806BC7EB7F564DD19C9BC6E2 /* Quicksand-BoldItalic.otf */,
+				7C272679ECC44D0EB9523819 /* Quicksand-Italic.otf */,
+				6A7ADB565D64464CB9E4FA94 /* Quicksand-Light.otf */,
+				EC484409FFC340A8A41D2A3D /* Quicksand-LightItalic.otf */,
+				6D865338B5C0440CA2657804 /* Quicksand-Regular.otf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -285,7 +315,7 @@
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0940;
+				LastUpgradeCheck = 940;
 				ORGANIZATIONNAME = Facebook;
 				TargetAttributes = {
 					00E356ED1AD99517003FC87E = {
@@ -338,6 +368,13 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+				2C0885333BBC4F6B8F0C64BF /* Quicksand_Dash.otf in Resources */,
+				1164F0A337BF45E59955BBC1 /* Quicksand-Bold.otf in Resources */,
+				B1774CA71FB34CBB8C7AF3EF /* Quicksand-BoldItalic.otf in Resources */,
+				62C6CC947EC94A66B9F5D49F /* Quicksand-Italic.otf in Resources */,
+				7882C23B052E44D99F34F604 /* Quicksand-Light.otf in Resources */,
+				430C41A1815E4F8CAFE8D66E /* Quicksand-LightItalic.otf in Resources */,
+				D7044764EED744CCBB797811 /* Quicksand-Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
