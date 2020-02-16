@@ -12,7 +12,11 @@ const getIceHoles = (): Promise<IceHole[]> => {
         'x-api-key': apiKey,
       },
     })
-    .then(res => res.data.iceHoles);
+    .then(res => res.data.iceHoles)
+    .catch(() => {
+      console.log('Fetching ice holes failed.');
+      return [];
+    });
 };
 
 export {getIceHoles};
